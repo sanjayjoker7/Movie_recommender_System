@@ -120,3 +120,13 @@ st.markdown("""
         and cosine similarity is used to find movies that have similar content.</p>
     </div>
     """, unsafe_allow_html=True)
+
+# uplodedfile = st.file_uploader("Upload a CSV file", type=["csv"])
+# st.button("Submit")
+# if uplodedfile is not None:
+    # df = pd.read_csv(uplodedfile)
+    # st.write(df)
+    # st.write(df.columns)
+    # st.write(df.dtypes)
+    # st.write(df.describe())
+# 
